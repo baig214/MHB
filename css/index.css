@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+@font-face { font-family: greylock; src:"\font\greylockhk.ttf"; } 
+@font-face { font-family: sydneysig; src:"\font\SydneySignature.ttf"; } 
+@font-face { font-family: sten; src:"\font\StencilovePersonalUseRegular-WyerY.ttf"; } 
+
+body {
+    
+    background-color: 769FCD;
+   
+    background: CEE5D0;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-left: 30px;
+    flex-wrap: wrap;
+
+    
+
+}
+#topr
+{
+    font-family: greylock;
+    background: 769FCD;
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+display: flex;
+flex-direction: row;
+margin-top: 40px;
+margin-left: 30px;
+margin-right: 30px;
+flex-wrap: wrap;
+align-items: auto;
+justify-content: auto;
+align-content:space-between;
+}
+ul {
+    color: bisque;
+}
+#achieve
+{
+    background: 769FCD;
+box-shadow: 0 8px 20px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+flex-wrap: wrap;
+margin-top: 20px;
+margin-left: 30px;
+margin-right: 00px;
+margin-bottom: 20px;
+border-left-width: 0;
+min-width: 500px;
+}
+#resu
+{
+    background: 769FCD;
+box-shadow: 0 8px 20px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+flex-wrap: wrap;
+margin-top: 20px;
+margin-left: 20px;
+margin-right: 0px;
+margin-bottom: 20px;
+
+border-left-width: 0;
+min-width: 726px;
+}
+
+
+#profile {
+    align-items: center;
+    align-content:space-between;
+}
+
+h1 {
+    text-align: center;
+}
+.card {
+    width: 220px;
+    height: 400px;
+    
+    padding: 30px;
+    border-radius: 10%;
+}
+ footer {
+    background: 769FCD; 
+    box-shadow: 0 20px 8px  rgba( 31, 38, 135, 0.37 );
+    /* backdrop-filter: blur( 4px ); */
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+     border: 1px solid rgba( 255, 255, 255, 0.18 );
+    /* flex-wrap: auto; 
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 0px;
+    margin-bottom: 180px; */
+  } 
+#ftr
+{
+    margin-left: 180px;
+    margin-right: 0px;
+}
+#SL{
+    margin-left: 250px;
+    margin-right: 80px;
+}
+img {
+    border-color: black;
+}
+#name
+{
+    font-family: Brush Script MT;
+}
+ #contact
+ {
+    font-family: Brush Script MT ;
+    
+ }
